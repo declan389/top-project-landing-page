@@ -2,6 +2,8 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    margin: 0;
 }
 
 .header {
@@ -43,14 +45,24 @@ body {
 
 .image-container {
     display: flex;
+    gap: 32px;
     
 }
 
 .images {
     display: flex;
     flex-direction: column;
+}
+
+.square-img {
     width: 150px;
     height: 150px;
+}
+
+.subtext {
+    width: 150px;
+    height: auto;
+    text-align: center;
 }
 
 .quote-box {
