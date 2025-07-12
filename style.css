@@ -32,3 +32,22 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.container-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.image-container {
+    display: flex;
+    
+}
+
+.image {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
