@@ -54,3 +54,17 @@ body {
     object-fit: cover;
 }
 
+.quote-box {
+    display: flex;
+}
+
+.blue-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
