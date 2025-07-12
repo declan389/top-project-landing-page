@@ -7,6 +7,7 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    margin: 0px 100px;
 }
 
 .all-links {
@@ -17,10 +18,17 @@ body {
 .container-1 {
     display: flex;
     justify-content: center;
+    gap: 26px;
+    margin: 0px 100px;
 }
 
 .main-image {
     display: flex;
     width: 400px;
     height: 160px;
+}
+
+.left-text {
+    display: flex;
+    flex-direction: column;
 }
