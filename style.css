@@ -90,6 +90,15 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 24px 280px;
+    padding-bottom: 80px;
+    background-color: white;
+}
+
+.subheading-2 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
 }
 
 .image-container {
