@@ -41,6 +41,33 @@ ul {
     justify-content: center;
     align-items: center;
     gap: 26px;
+    background-color: #1f2937;
+    padding: 80px 300px;
+}
+
+.h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+    margin: 0;
+}
+
+.p1 {
+    font-size: 18px;
+    color: #e5e7eb;
+    font-weight: 100;
+}
+
+button {
+    width: fit-content;
+    background-color: #3882f6;
+    padding: 8px 28px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #e5e7eb;
+    border: 0;
+    border-radius: 8px;
 }
 
 .main-image {
