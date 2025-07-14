@@ -8,7 +8,6 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
-    margin: 0px 100px;
     background-color: #1f2937;
 }
 
@@ -34,7 +33,6 @@ body {
     justify-content: center;
     align-items: center;
     gap: 26px;
-    margin: 0px 100px;
 }
 
 .main-image {
