@@ -135,8 +135,8 @@ button {
     display: flex;
     flex-direction: column;
     background-color: #e5e7eb;
-    padding: 120px 440px;
-    padding-bottom: 100px;
+    padding: 100px 440px;
+    padding-bottom: 80px;
 }
 
 .quote {
