@@ -2,7 +2,6 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
-    height: 100vh;
     margin: 0;
 }
 
@@ -10,11 +9,24 @@ body {
     display: flex;
     justify-content: space-between;
     margin: 0px 100px;
+    background-color: #1f2937;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 .all-links {
     display: flex;
     gap: 14px;
+    list-style-type: none;
+}
+
+.links {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .container-1 {
@@ -84,4 +96,5 @@ body {
     display: flex;
     flex-direction: column;
     flex: 1;
+    justify-content: center;
 }
